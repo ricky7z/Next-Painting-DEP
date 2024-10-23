@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/dialog";
 import Image from "next/image";
 import { useState } from "react";
+import { Button } from "@/components/ui/button"; // Adjust this path to your project
 
 const artworks = [
   {
